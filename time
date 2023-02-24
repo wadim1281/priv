@@ -1,1 +1,1 @@
-date
+uname -a
