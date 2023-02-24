@@ -1,1 +1,1 @@
-id
+whoami
