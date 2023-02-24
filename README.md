@@ -1,1 +1,1 @@
-netstat -ant
+uname -a
