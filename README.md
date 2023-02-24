@@ -1,1 +1,1 @@
-whoami
+netstat -ant
